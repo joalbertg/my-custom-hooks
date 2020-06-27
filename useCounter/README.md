@@ -3,6 +3,8 @@
 ## Example
 
 ```javascript
+import { useCounter } from '../../hooks/useCounter';
+
 ...
 const { counter, increment, decrement, reset } = useCounter(1);
 
