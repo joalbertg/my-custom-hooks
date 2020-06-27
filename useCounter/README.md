@@ -1,0 +1,7 @@
+#useCounter
+
+## Example
+
+```javascript
+```
+
